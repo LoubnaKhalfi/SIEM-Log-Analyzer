@@ -1,0 +1,28 @@
+Dec 10 02:15:01 server sshd[1234]: Failed password for root from 192.168.1.105 port 22 ssh2
+Dec 10 02:15:02 server sshd[1234]: Failed password for root from 192.168.1.105 port 22 ssh2
+Dec 10 02:15:03 server sshd[1234]: Failed password for root from 192.168.1.105 port 22 ssh2
+Dec 10 02:15:04 server sshd[1234]: Failed password for root from 192.168.1.105 port 22 ssh2
+Dec 10 02:15:05 server sshd[1234]: Failed password for root from 192.168.1.105 port 22 ssh2
+Dec 10 02:15:06 server sshd[1234]: Failed password for root from 192.168.1.105 port 22 ssh2
+Dec 10 02:15:07 server sshd[1234]: Accepted password for root from 192.168.1.105 port 22 ssh2
+Dec 10 02:20:11 server sudo[2001]: john : TTY=pts/0 ; PWD=/home/john ; USER=root ; COMMAND=/bin/bash
+Dec 10 02:21:00 server su[2050]: Successful su for root by www-data
+Dec 10 02:30:44 server sshd[3001]: Failed password for admin from 10.0.0.55 port 22 ssh2
+Dec 10 02:30:45 server sshd[3001]: Failed password for admin from 10.0.0.55 port 22 ssh2
+Dec 10 02:30:46 server sshd[3001]: Failed password for admin from 10.0.0.55 port 22 ssh2
+Dec 10 02:30:47 server sshd[3001]: Failed password for admin from 10.0.0.55 port 22 ssh2
+Dec 10 02:30:48 server sshd[3001]: Failed password for admin from 10.0.0.55 port 22 ssh2
+Dec 10 02:30:49 server sshd[3001]: Failed password for admin from 10.0.0.55 port 22 ssh2
+Dec 10 02:30:50 server sshd[3001]: Failed password for admin from 10.0.0.55 port 22 ssh2
+Dec 10 02:30:51 server sshd[3001]: Failed password for admin from 10.0.0.55 port 22 ssh2
+Dec 10 02:30:52 server sshd[3001]: Failed password for admin from 10.0.0.55 port 22 ssh2
+Dec 10 02:30:53 server sshd[3001]: Failed password for admin from 10.0.0.55 port 22 ssh2
+Dec 10 03:45:00 server sshd[4001]: Accepted password for deploy from 203.0.113.42 port 22 ssh2
+Dec 10 03:45:05 server sudo[4100]: deploy : TTY=pts/1 ; PWD=/var/www ; USER=root ; COMMAND=/usr/bin/systemctl restart apache2
+Dec 10 09:00:01 server sshd[5001]: Accepted password for alice from 192.168.1.10 port 22 ssh2
+Dec 10 09:05:00 server sshd[5002]: Accepted password for bob from 192.168.1.11 port 22 ssh2
+Dec 10 02:15:08 server sshd[6001]: Failed password for invalid user ftpuser from 172.16.0.99 port 22 ssh2
+Dec 10 02:15:09 server sshd[6001]: Failed password for invalid user ftpuser from 172.16.0.99 port 22 ssh2
+Dec 10 02:15:10 server sshd[6001]: Failed password for invalid user ftpuser from 172.16.0.99 port 22 ssh2
+Dec 10 02:15:11 server sshd[6001]: Failed password for invalid user ftpuser from 172.16.0.99 port 22 ssh2
+Dec 10 02:15:12 server sshd[6001]: Failed password for invalid user ftpuser from 172.16.0.99 port 22 ssh2

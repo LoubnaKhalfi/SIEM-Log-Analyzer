@@ -1,0 +1,19 @@
+2024-12-10 02:10:00 EventID=4625 AccountName=Administrator IpAddress=192.168.1.105 FailureReason=UnknownUserOrBadPassword LogonType=3
+2024-12-10 02:10:01 EventID=4625 AccountName=Administrator IpAddress=192.168.1.105 FailureReason=UnknownUserOrBadPassword LogonType=3
+2024-12-10 02:10:02 EventID=4625 AccountName=Administrator IpAddress=192.168.1.105 FailureReason=UnknownUserOrBadPassword LogonType=3
+2024-12-10 02:10:03 EventID=4625 AccountName=Administrator IpAddress=192.168.1.105 FailureReason=UnknownUserOrBadPassword LogonType=3
+2024-12-10 02:10:04 EventID=4625 AccountName=Administrator IpAddress=192.168.1.105 FailureReason=UnknownUserOrBadPassword LogonType=3
+2024-12-10 02:10:05 EventID=4625 AccountName=Administrator IpAddress=192.168.1.105 FailureReason=UnknownUserOrBadPassword LogonType=3
+2024-12-10 02:10:06 EventID=4624 AccountName=Administrator IpAddress=192.168.1.105 LogonType=3
+2024-12-10 02:15:00 EventID=4672 AccountName=Administrator IpAddress=192.168.1.105 Privileges=SeDebugPrivilege,SeTcbPrivilege
+2024-12-10 02:20:00 EventID=4720 AccountName=backdoor IpAddress=192.168.1.105 CreatedBy=Administrator
+2024-12-10 02:21:00 EventID=4732 AccountName=backdoor GroupName=Administrators IpAddress=192.168.1.105
+2024-12-10 03:00:00 EventID=4625 AccountName=john IpAddress=10.0.0.77 FailureReason=UnknownUserOrBadPassword LogonType=3
+2024-12-10 03:00:01 EventID=4625 AccountName=john IpAddress=10.0.0.77 FailureReason=UnknownUserOrBadPassword LogonType=3
+2024-12-10 03:00:02 EventID=4625 AccountName=john IpAddress=10.0.0.77 FailureReason=UnknownUserOrBadPassword LogonType=3
+2024-12-10 03:00:03 EventID=4625 AccountName=john IpAddress=10.0.0.77 FailureReason=UnknownUserOrBadPassword LogonType=3
+2024-12-10 03:00:04 EventID=4625 AccountName=john IpAddress=10.0.0.77 FailureReason=UnknownUserOrBadPassword LogonType=3
+2024-12-10 09:00:00 EventID=4624 AccountName=alice IpAddress=192.168.1.10 LogonType=3
+2024-12-10 09:05:00 EventID=4624 AccountName=bob IpAddress=192.168.1.11 LogonType=3
+2024-12-10 04:30:00 EventID=4698 AccountName=SYSTEM TaskName=MaliciousTask Command=powershell.exe -enc ZQBjAGgAbwA=
+2024-12-10 04:35:00 EventID=7045 ServiceName=EvilService BinaryPath=C:\Windows\Temp\evil.exe StartType=auto
