@@ -125,14 +125,3 @@ siem-log-analyzer/
 └── requirements.txt
 ```
 
----
-
-## ⚠️ Legal Notice
-
-For authorized use only — security research, lab environments, and systems you own or have explicit permission to monitor.
-
----
-
-## License
-
-MIT
